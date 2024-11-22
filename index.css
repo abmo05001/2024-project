@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: ;
+    background-image: url(https://www.gymleco.com/wp-content/uploads/2022/09/hur-du-bygger-framgangsrikt-gym.jpg) ;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: rgb(202, 225, 218);
     color: #230707;
@@ -64,6 +64,7 @@ main{
 
 .sidebar{
     grid-area: sidebar;
+    background-color: var(--text-color-light);
 }
 
 footer{
