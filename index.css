@@ -1,13 +1,13 @@
 :root{
-    --primary-color:#4cdc79;
-    --accent-color:#6b2c25;
+    --primary-color:#ffff;
+    --accent-color:#07038;
     --text-color-light:#CCCCCC;
     --gap:10px
 
 }
 
 body{
-    background-image: url(https://www.gymleco.com/wp-content/uploads/2022/09/hur-du-bygger-framgangsrikt-gym.jpg) ;
+    background-color: aquamarine;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: rgb(202, 225, 218);
     color: #230707;
@@ -16,7 +16,7 @@ body{
 }
 
 header{
-    background-color:var(--primary-color);
+    background-color:var(--accent-color);
     margin: 10px;
     padding: 15px;
     text-align:center;
